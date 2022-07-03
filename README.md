@@ -6,3 +6,6 @@ the second notebook presents the approach followed to model Airfoils self noise.
 
 <img src="graph.png" width="600"/>
 
+
+The X axis presents the range of values of different airfoil noises sound pressure.
+
