@@ -4,7 +4,7 @@ The jupyter notebook "Dataprocessing.ipynb" presents the pipeline that was made 
 
 the second notebook presents the approach followed to model Airfoils self noise. It covers all steps from data processing to modeling. The analysis was sumed up in the following graph that indicates polynomial regression dergree 3 as the best model. This graph show some density distributions produced by regression models, compares them to the original validation data distribution.
 
-<img src="graph.png" width="600"/>
+<img src="graph.png" width="700"/>
 
 
 The X axis presents the range of values of different airfoil noises sound pressure.
